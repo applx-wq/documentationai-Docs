@@ -11,7 +11,7 @@
   "navigation": {
     "dropdowns": [
       {
-        "dropdown": "Mein Dropdown Name",
+        "dropdown": "Haupt Dropdown",
         "icon": "drama",
         "tabs": [
           {
@@ -171,6 +171,21 @@
           }
         ],
         "icon": "air-vent"
+      },
+      {
+        "dropdown": "Unter Dropdown",
+        "pages": [
+          {
+            "group": "unter group",
+            "pages": [
+              {
+                "title": "unter test",
+                "path": "unter-test"
+              }
+            ]
+          }
+        ],
+        "icon": "a-large-small"
       }
     ]
   }
