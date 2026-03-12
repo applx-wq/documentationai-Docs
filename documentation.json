@@ -154,6 +154,23 @@
             ]
           }
         ]
+      },
+      {
+        "dropdown": "Mein Dropdown Name",
+        "pages": [
+          {
+            "group": "Innerhalb DD",
+            "pages": [
+              {
+                "title": "test",
+                "path": "test",
+                "icon": "a-arrow-up-icon"
+              }
+            ],
+            "icon": "airplay"
+          }
+        ],
+        "icon": "air-vent"
       }
     ]
   }
