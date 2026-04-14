@@ -36,6 +36,19 @@
                     "title": "Components",
                     "path": "components",
                     "icon": "code"
+                  },
+                  {
+                    "group": "XY Page Group",
+                    "pages": [
+                      {
+                        "title": "Unterseite xy",
+                        "path": "unterseite-604141",
+                        "icon": "a-arrow-up"
+                      }
+                    ],
+                    "icon": "activity-square",
+                    "path": "xy-page-group",
+                    "badge": "tbd"
                   }
                 ]
               }
